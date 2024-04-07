@@ -958,13 +958,13 @@ a.header-link .current::after {
 .footer-block {
 }
 
-@media (min-width: 768px) and (max-width: 1158px) {
+@media (min-width: 768px) and (max-width: 1157px) {
   .footer-block {
     margin-left: 108px;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1057px) {
+@media (min-width: 768px) and (max-width: 1157px) {
   .footer-wrapper {
     padding: 96px;
     display: flex;
@@ -973,7 +973,7 @@ a.header-link .current::after {
   }
 }
 
-@media (min-width: 768px) and (max-width: 1057px) {
+@media (min-width: 768px) and (max-width: 1157px) {
   .footer-main-container {
     align-items: flex-start;
     width: 50%;
@@ -1021,7 +1021,7 @@ a.header-link .current::after {
   }
 }
 
-@media (min-width: 768px) and (max-width: 1057px) {
+@media (min-width: 768px) and (max-width: 1157px) {
   .footer-media-title {
     text-align: left;
   }
